@@ -1,0 +1,14 @@
+C:\Users\kosra\OneDrive\Skrivbord\GrundProgrammering\Prog_Forts\SalesAdventure3000\bin\Debug\net8.0\SalesAdventure3000.exe
+C:\Users\kosra\OneDrive\Skrivbord\GrundProgrammering\Prog_Forts\SalesAdventure3000\bin\Debug\net8.0\SalesAdventure3000.deps.json
+C:\Users\kosra\OneDrive\Skrivbord\GrundProgrammering\Prog_Forts\SalesAdventure3000\bin\Debug\net8.0\SalesAdventure3000.runtimeconfig.json
+C:\Users\kosra\OneDrive\Skrivbord\GrundProgrammering\Prog_Forts\SalesAdventure3000\bin\Debug\net8.0\SalesAdventure3000.dll
+C:\Users\kosra\OneDrive\Skrivbord\GrundProgrammering\Prog_Forts\SalesAdventure3000\bin\Debug\net8.0\SalesAdventure3000.pdb
+C:\Users\kosra\OneDrive\Skrivbord\GrundProgrammering\Prog_Forts\SalesAdventure3000\obj\Debug\net8.0\SalesAdventure3000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kosra\OneDrive\Skrivbord\GrundProgrammering\Prog_Forts\SalesAdventure3000\obj\Debug\net8.0\SalesAdventure3000.AssemblyInfoInputs.cache
+C:\Users\kosra\OneDrive\Skrivbord\GrundProgrammering\Prog_Forts\SalesAdventure3000\obj\Debug\net8.0\SalesAdventure3000.AssemblyInfo.cs
+C:\Users\kosra\OneDrive\Skrivbord\GrundProgrammering\Prog_Forts\SalesAdventure3000\obj\Debug\net8.0\SalesAdventure3000.csproj.CoreCompileInputs.cache
+C:\Users\kosra\OneDrive\Skrivbord\GrundProgrammering\Prog_Forts\SalesAdventure3000\obj\Debug\net8.0\SalesAdventure3000.dll
+C:\Users\kosra\OneDrive\Skrivbord\GrundProgrammering\Prog_Forts\SalesAdventure3000\obj\Debug\net8.0\refint\SalesAdventure3000.dll
+C:\Users\kosra\OneDrive\Skrivbord\GrundProgrammering\Prog_Forts\SalesAdventure3000\obj\Debug\net8.0\SalesAdventure3000.pdb
+C:\Users\kosra\OneDrive\Skrivbord\GrundProgrammering\Prog_Forts\SalesAdventure3000\obj\Debug\net8.0\SalesAdventure3000.genruntimeconfig.cache
+C:\Users\kosra\OneDrive\Skrivbord\GrundProgrammering\Prog_Forts\SalesAdventure3000\obj\Debug\net8.0\ref\SalesAdventure3000.dll

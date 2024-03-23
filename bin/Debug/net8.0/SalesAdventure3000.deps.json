@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SalesAdventure3000/1.0.0": {
+        "runtime": {
+          "SalesAdventure3000.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SalesAdventure3000/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
