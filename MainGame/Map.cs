@@ -1,6 +1,7 @@
 ﻿using MMORPG.MainGame;
 using SalesAdventure.MainGame;
 using SalesAdventure.MainGame.Enemies;
+using SalesAdventure.MainGame.Items;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -16,11 +17,13 @@ namespace SalesAdventure3000.MainGame
         internal object items;
 
         public Random Random { get; private set; }
+        public List<Item> Items { get; private set; }
         public List<Goblin> Goblins { get; private set; }
         public Map(int mapWidth, int mapHeight)
         {
             width = mapWidth;
             height = mapHeight;
+            Items = new List<Item>();
             Random = new Random();
             Goblins = new List<Goblin>();
         }
@@ -68,6 +71,38 @@ namespace SalesAdventure3000.MainGame
             Goblins.Add(goblin);
         }
         //HealthPotions
+        public void SpawnHealthPotion(HealthPotion healthPotion)
+        {
+            healthPotion.SpawnHealthPotion(this, 5);
+        }
+        public void SpawnEnergyPotion(EnergyPotion energyPotion)
+        {
+            energyPotion.SpawnEnergyPotion(this, 2);
+        }
+        public void AddItem(Item item)
+        {
+            Items.Add(item);
+        }
+        public void AddEnemy(Goblin goblin)
+        {
+            Goblins.Add(goblin);
+        }
+        public void RemoveItem(int x, int y)
+        {
+            Items.RemoveAll(item => item.X == x && item.Y == y);
+        }
+        public void RemoveAllItems()
+        {
+            Items.Clear();
+        }
+
+        public void RemoveEnemy(Goblin goblin)
+        {
+            if (goblin != null)
+            {
+                Goblins.Remove(goblin);
+            }
+        }
 
     }
 }
