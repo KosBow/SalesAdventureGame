@@ -1,4 +1,7 @@
-﻿using System;
+﻿using MMORPG.MainGame;
+using SalesAdventure.MainGame;
+using SalesAdventure.MainGame.Enemies;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,14 +11,18 @@ namespace SalesAdventure3000.MainGame
 {
     internal class Map
     {
-        private int width;
-        private int height;
+        public int width;
+        public int height;
+        internal object items;
 
-
+        public Random Random { get; private set; }
+        public List<Goblin> Goblins { get; private set; }
         public Map(int mapWidth, int mapHeight)
         {
             width = mapWidth;
             height = mapHeight;
+            Random = new Random();
+            Goblins = new List<Goblin>();
         }
 
         public void MapRender()
@@ -47,11 +54,20 @@ namespace SalesAdventure3000.MainGame
             return x <= 0 || x >= width - 1 || y <= 0 || y >= height - 1;
         }
 
+
         //Player Spawn
-        public void SpawnPlayer(Player player)
+        public void SpawnPlayer(int x, int y)
         {
-            Console.SetCursorPosition(player.X, player.Y);
+            Console.SetCursorPosition(x, y);
             Console.WriteLine("@");
         }
+        //Goblin Spawn
+        public void GoblinSpawn(Goblin goblin)
+        {
+            goblin.SpawnGoblin(this, 5);
+            Goblins.Add(goblin);
+        }
+        //HealthPotions
+
     }
 }
