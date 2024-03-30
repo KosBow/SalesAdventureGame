@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{93DF99C9-0647-49F2-B10B-ED23F852D382}|SalesAdventure3000.csproj|solutionrelative:maingame\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93DF99C9-0647-49F2-B10B-ED23F852D382}|SalesAdventure3000.csproj|c:\\users\\kosra\\desktop\\skola\\prog_forts\\lektion\\salesadventuregame\\maingame\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93DF99C9-0647-49F2-B10B-ED23F852D382}|SalesAdventure3000.csproj|solutionrelative:maingame\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93DF99C9-0647-49F2-B10B-ED23F852D382}|SalesAdventure3000.csproj|C:\\Users\\kosra\\Desktop\\Skola\\prog_forts\\Lektion\\SalesAdventureGame\\maingame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93DF99C9-0647-49F2-B10B-ED23F852D382}|SalesAdventure3000.csproj|solutionrelative:maingame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93DF99C9-0647-49F2-B10B-ED23F852D382}|SalesAdventure3000.csproj|c:\\users\\kosra\\desktop\\skola\\prog_forts\\lektion\\salesadventuregame\\maingame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93DF99C9-0647-49F2-B10B-ED23F852D382}|SalesAdventure3000.csproj|solutionrelative:maingame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93DF99C9-0647-49F2-B10B-ED23F852D382}|SalesAdventure3000.csproj|C:\\Users\\kosra\\Desktop\\Skola\\prog_forts\\Lektion\\SalesAdventureGame\\maingame\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93DF99C9-0647-49F2-B10B-ED23F852D382}|SalesAdventure3000.csproj|solutionrelative:maingame\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kosra\\Desktop\\Skola\\prog_forts\\Lektion\\SalesAdventureGame\\MainGame\\Program.cs",
               "RelativeDocumentMoniker": "MainGame\\Program.cs",
@@ -39,7 +39,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\kosra\\Desktop\\Skola\\prog_forts\\Lektion\\SalesAdventureGame\\MainGame\\Player.cs",
               "RelativeDocumentMoniker": "MainGame\\Player.cs",
@@ -58,7 +58,7 @@
               "RelativeDocumentMoniker": "MainGame\\Map.cs",
               "ToolTip": "C:\\Users\\kosra\\Desktop\\Skola\\prog_forts\\Lektion\\SalesAdventureGame\\MainGame\\Map.cs",
               "RelativeToolTip": "MainGame\\Map.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-21T20:53:19.333Z",
               "EditorCaption": ""
