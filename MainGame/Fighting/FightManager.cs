@@ -1,11 +1,12 @@
 ﻿using MMORPG.MainGame;
 using MMORPG.MainGame.UI;
+using SalesAdventure.MainGame;
 using SalesAdventure.MainGame.Enemies;
 using SalesAdventure.MainGame.Items;
 using SalesAdventure3000.MainGame;
 using System;
 
-namespace SalesAdventure.MainGame
+namespace SalesAdventure3000.MainGame.Fighting
 {
     internal static class FightManager
     {
@@ -18,7 +19,7 @@ namespace SalesAdventure.MainGame
             }
 
             ui.CenterText("You have encountered a Goblin and it's ready to fight. (press enter)", gameState.GameMap);
-  
+
             Console.ReadLine();
             Console.Clear();
             gameState.GameMap.RemoveAllItems();
@@ -171,7 +172,7 @@ namespace SalesAdventure.MainGame
             gameState.inFight = false;
         }
 
-    static void GoblinTurn(Player player, Goblin goblin)
+        static void GoblinTurn(Player player, Goblin goblin)
         {
             Random random = new Random();
             int damage = random.Next(1, 20);
