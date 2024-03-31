@@ -18,14 +18,14 @@ namespace SalesAdventure.MainGame.Enemies
         public void TakeDamage(int damage)
         {
             Health -= damage;
-            Console.WriteLine($"The Goblin took {damage} damage!");
+            Console.WriteLine($"The Goblin took: {damage} damage!");
 
         }
 
         public void Attack(Player player, int attackDamage)
         {
             player.Health -= attackDamage;
-            Console.WriteLine($"The Goblin attacked you for {attackDamage} damage!");
+            Console.WriteLine($"The Goblin attacked you for: {attackDamage} damage!");
         }
 
         public void SpawnGoblin(Map gameMap, int numberOfGoblins)

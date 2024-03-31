@@ -13,7 +13,7 @@ namespace SalesAdventure.MainGame
     {
         static void Main(string[] args)
         {
-            //Console.WindowWidth = 120;
+            //Console.WindowWidth = 120; - Ruined the map so disabled for now.
             //Console.WindowHeight = 35;
 
             GameState gameState = InitializeGameState();
@@ -80,7 +80,7 @@ namespace SalesAdventure.MainGame
                     if (goblins != null && goblins.Count > 0 && gameState.Player.IsCloseToGoblin(gameState.Player, goblins))
                     {
 
-                        ui.CenterText("A goblin is nearby! Press Y to Fight it", gameState.GameMap);
+                        ui.CenterText("A goblin is nearby! Press (Y) to Fight it (press Enter)", gameState.GameMap);
                         string choice = Console.ReadLine().ToLower();
                         if (choice == "y")
                         {
@@ -89,7 +89,7 @@ namespace SalesAdventure.MainGame
                             Console.Clear();
                         }
                     }
-                    //Console.SetCursorPosition(0, gameState.GameMap.height + 2);
+                    //Console.SetCursorPosition(0, gameState.GameMap.height + 2); - Ruined the map so disabled for now.
                 }
             }
         }

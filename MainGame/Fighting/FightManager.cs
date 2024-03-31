@@ -14,11 +14,11 @@ namespace SalesAdventure3000.MainGame.Fighting
         {
             if (player.Health <= 0 || player.Energy <= 0)
             {
-                ui.CenterText("Your Energy level is too low to fight", gameState.GameMap);
+                ui.CenterText("Your Energy level is too low to fight!", gameState.GameMap);
                 return;
             }
 
-            ui.CenterText("You have encountered a Goblin and it's ready to fight. (press enter)", gameState.GameMap);
+            ui.CenterText("You have encountered a Goblin and it's ready to fight. (press Enter)", gameState.GameMap);
 
             Console.ReadLine();
             Console.Clear();
@@ -38,7 +38,7 @@ namespace SalesAdventure3000.MainGame.Fighting
                     {
                         player.Energy = 100;
                     }
-                    Console.WriteLine("You got 20 Energy points as reward Current Energy: " + player.Energy);
+                    Console.WriteLine("You got 20 Energy points as reward - Current Energy: " + player.Energy);
                     gameState.GameMap.RemoveEnemy(goblin);
 
                     Console.WriteLine("Press ENTER to continue...");
@@ -55,7 +55,7 @@ namespace SalesAdventure3000.MainGame.Fighting
                 if (player.Health <= 0)
                 {
                     Console.Clear();
-                    ui.CenterText("You were defeated by the goblin! Press a Key to Exit the SalesAdventure", gameState.GameMap);
+                    ui.CenterText("You were defeated by the goblin! Press a Key to Exit the SalesAdventure Game", gameState.GameMap);
                     Thread.Sleep(1000);
                     Console.ReadKey();
                     Environment.Exit(0);
@@ -80,7 +80,7 @@ namespace SalesAdventure3000.MainGame.Fighting
             int choice;
             if (!int.TryParse(Console.ReadLine(), out choice))
             {
-                Console.WriteLine("Invalid input!");
+                Console.WriteLine("Invalid input! - Pick between number 1 to 4 to make an Action.");
                 return -1;
             }
 

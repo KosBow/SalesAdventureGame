@@ -88,12 +88,12 @@ namespace SalesAdventure.MainGame
             {
                 goblin.TakeDamage(basicDamage);
                 Energy -= energyCost;
-                Console.WriteLine($"You used a basic Attack! You did :  {basicDamage} damage");
-                Console.WriteLine($"Du har nu {Energy} i Energi");
+                Console.WriteLine($"You used a basic Attack! You did: {basicDamage} damage");
+                Console.WriteLine($"You have {Energy} energy left");
             }
             else
             {
-                Console.WriteLine($"Du har inte tillräckligt med energi: {Energy}");
+                Console.WriteLine($"You don't have enough energy: {Energy}");
             }
 
         }
@@ -113,11 +113,11 @@ namespace SalesAdventure.MainGame
                     }
 
                     items.RemoveAt(i);
-                    Console.WriteLine($"Du använde precis en healthpot och har nu {Health} i hp");
-                    return;
+                    Console.WriteLine($"You just used a healthpotion and now have: {Health} Hp");
+                    return;         
                 }
             }
-            Console.WriteLine("Du har inga healthpot eller så har du fullt hp");
+            Console.WriteLine("You have no health pot or you have full hp");
         }
         public void useEnergyPotion()
         {
@@ -134,11 +134,11 @@ namespace SalesAdventure.MainGame
                     }
 
                     items.RemoveAt(i);
-                    Console.WriteLine($"Du använde precis en engeripot och har nu {Energy} i Energi");
+                    Console.WriteLine($"You just used an energy pot and now have: {Energy} Energy");
                     return;
                 }
             }
-            Console.WriteLine("Du har inga energipot eller så har du fullt energi");
+            Console.WriteLine("You have no energy pots or you have full energy");
         }
         //show inventory
         public List<Item> GetItems()

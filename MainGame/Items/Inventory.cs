@@ -20,14 +20,14 @@ namespace SalesAdventure.MainGame.Items
         {
             items.Add(item);
 
-            int xPosition = (gameMap.width - $"Du har en {item.Name}".Length) / 2;
+            int xPosition = (gameMap.width - $"You have picked up a {item.Name}".Length) / 2;
             int yPosition = gameMap.height / 2;
 
             Console.SetCursorPosition(xPosition, yPosition);
-            Console.WriteLine($"Du har en {item.Name}");
+            Console.WriteLine($"You have a: {item.Name}");
             Thread.Sleep(500);
             Console.SetCursorPosition(xPosition, yPosition);
-            Console.WriteLine(new string(' ', $"Du har en {item.Name}".Length));
+            Console.WriteLine(new string(' ', $"You have a: {item.Name}".Length));
 
 
         }

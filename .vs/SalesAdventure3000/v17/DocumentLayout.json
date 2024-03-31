@@ -3,32 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\kosra\\Desktop\\Skola\\prog_forts\\Lektion\\SalesAdventureGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{93DF99C9-0647-49F2-B10B-ED23F852D382}|SalesAdventure3000.csproj|C:\\Users\\kosra\\Desktop\\Skola\\prog_forts\\Lektion\\SalesAdventureGame\\maingame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93DF99C9-0647-49F2-B10B-ED23F852D382}|SalesAdventure3000.csproj|solutionrelative:maingame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93DF99C9-0647-49F2-B10B-ED23F852D382}|SalesAdventure3000.csproj|C:\\Users\\kosra\\Desktop\\Skola\\prog_forts\\Lektion\\SalesAdventureGame\\maingame\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93DF99C9-0647-49F2-B10B-ED23F852D382}|SalesAdventure3000.csproj|solutionrelative:maingame\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{93DF99C9-0647-49F2-B10B-ED23F852D382}|SalesAdventure3000.csproj|c:\\users\\kosra\\desktop\\skola\\prog_forts\\lektion\\salesadventuregame\\maingame\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93DF99C9-0647-49F2-B10B-ED23F852D382}|SalesAdventure3000.csproj|solutionrelative:maingame\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93DF99C9-0647-49F2-B10B-ED23F852D382}|SalesAdventure3000.csproj|C:\\Users\\kosra\\Desktop\\Skola\\prog_forts\\Lektion\\SalesAdventureGame\\maingame\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93DF99C9-0647-49F2-B10B-ED23F852D382}|SalesAdventure3000.csproj|solutionrelative:maingame\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93DF99C9-0647-49F2-B10B-ED23F852D382}|SalesAdventure3000.csproj|C:\\Users\\kosra\\Desktop\\Skola\\prog_forts\\Lektion\\SalesAdventureGame\\maingame\\enemies\\golbin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{93DF99C9-0647-49F2-B10B-ED23F852D382}|SalesAdventure3000.csproj|c:\\users\\kosra\\desktop\\skola\\prog_forts\\lektion\\salesadventuregame\\maingame\\enemies\\golbin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93DF99C9-0647-49F2-B10B-ED23F852D382}|SalesAdventure3000.csproj|solutionrelative:maingame\\enemies\\golbin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93DF99C9-0647-49F2-B10B-ED23F852D382}|SalesAdventure3000.csproj|C:\\Users\\kosra\\Desktop\\Skola\\prog_forts\\Lektion\\SalesAdventureGame\\maingame\\ui\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93DF99C9-0647-49F2-B10B-ED23F852D382}|SalesAdventure3000.csproj|solutionrelative:maingame\\ui\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93DF99C9-0647-49F2-B10B-ED23F852D382}|SalesAdventure3000.csproj|c:\\users\\kosra\\desktop\\skola\\prog_forts\\lektion\\salesadventuregame\\maingame\\fighting\\fightmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93DF99C9-0647-49F2-B10B-ED23F852D382}|SalesAdventure3000.csproj|solutionrelative:maingame\\fighting\\fightmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93DF99C9-0647-49F2-B10B-ED23F852D382}|SalesAdventure3000.csproj|C:\\Users\\kosra\\Desktop\\Skola\\prog_forts\\Lektion\\SalesAdventureGame\\maingame\\enemies\\enemies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93DF99C9-0647-49F2-B10B-ED23F852D382}|SalesAdventure3000.csproj|solutionrelative:maingame\\enemies\\enemies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93DF99C9-0647-49F2-B10B-ED23F852D382}|SalesAdventure3000.csproj|c:\\users\\kosra\\desktop\\skola\\prog_forts\\lektion\\salesadventuregame\\maingame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93DF99C9-0647-49F2-B10B-ED23F852D382}|SalesAdventure3000.csproj|solutionrelative:maingame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DF99C9-0647-49F2-B10B-ED23F852D382}|SalesAdventure3000.csproj|c:\\users\\kosra\\desktop\\skola\\prog_forts\\lektion\\salesadventuregame\\maingame\\items\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93DF99C9-0647-49F2-B10B-ED23F852D382}|SalesAdventure3000.csproj|solutionrelative:maingame\\items\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,93 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GameState.cs",
-              "DocumentMoniker": "C:\\Users\\kosra\\Desktop\\Skola\\prog_forts\\Lektion\\SalesAdventureGame\\MainGame\\GameState.cs",
-              "RelativeDocumentMoniker": "MainGame\\GameState.cs",
-              "ToolTip": "C:\\Users\\kosra\\Desktop\\Skola\\prog_forts\\Lektion\\SalesAdventureGame\\MainGame\\GameState.cs",
-              "RelativeToolTip": "MainGame\\GameState.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-30T19:15:40.587Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UI.cs",
-              "DocumentMoniker": "C:\\Users\\kosra\\Desktop\\Skola\\prog_forts\\Lektion\\SalesAdventureGame\\MainGame\\UI\\UI.cs",
-              "RelativeDocumentMoniker": "MainGame\\UI\\UI.cs",
-              "ToolTip": "C:\\Users\\kosra\\Desktop\\Skola\\prog_forts\\Lektion\\SalesAdventureGame\\MainGame\\UI\\UI.cs",
-              "RelativeToolTip": "MainGame\\UI\\UI.cs",
-              "ViewState": "AQIAAFYAAAAAAAAAAAAIwGcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-30T19:12:57.696Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Golbin.cs",
               "DocumentMoniker": "C:\\Users\\kosra\\Desktop\\Skola\\prog_forts\\Lektion\\SalesAdventureGame\\MainGame\\Enemies\\Golbin.cs",
               "RelativeDocumentMoniker": "MainGame\\Enemies\\Golbin.cs",
               "ToolTip": "C:\\Users\\kosra\\Desktop\\Skola\\prog_forts\\Lektion\\SalesAdventureGame\\MainGame\\Enemies\\Golbin.cs",
               "RelativeToolTip": "MainGame\\Enemies\\Golbin.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-30T15:53:49.517Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Enemies.cs",
-              "DocumentMoniker": "C:\\Users\\kosra\\Desktop\\Skola\\prog_forts\\Lektion\\SalesAdventureGame\\MainGame\\Enemies\\Enemies.cs",
-              "RelativeDocumentMoniker": "MainGame\\Enemies\\Enemies.cs",
-              "ToolTip": "C:\\Users\\kosra\\Desktop\\Skola\\prog_forts\\Lektion\\SalesAdventureGame\\MainGame\\Enemies\\Enemies.cs",
-              "RelativeToolTip": "MainGame\\Enemies\\Enemies.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-30T15:53:37.026Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Map.cs",
-              "DocumentMoniker": "C:\\Users\\kosra\\Desktop\\Skola\\prog_forts\\Lektion\\SalesAdventureGame\\MainGame\\Map.cs",
-              "RelativeDocumentMoniker": "MainGame\\Map.cs",
-              "ToolTip": "C:\\Users\\kosra\\Desktop\\Skola\\prog_forts\\Lektion\\SalesAdventureGame\\MainGame\\Map.cs",
-              "RelativeToolTip": "MainGame\\Map.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T20:53:19.333Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kosra\\Desktop\\Skola\\prog_forts\\Lektion\\SalesAdventureGame\\MainGame\\Program.cs",
-              "RelativeDocumentMoniker": "MainGame\\Program.cs",
-              "ToolTip": "C:\\Users\\kosra\\Desktop\\Skola\\prog_forts\\Lektion\\SalesAdventureGame\\MainGame\\Program.cs",
-              "RelativeToolTip": "MainGame\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T20:50:46.748Z",
+              "WhenOpened": "2024-03-31T22:27:54.907Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "FightManager.cs",
+              "DocumentMoniker": "C:\\Users\\kosra\\Desktop\\Skola\\prog_forts\\Lektion\\SalesAdventureGame\\MainGame\\Fighting\\FightManager.cs",
+              "RelativeDocumentMoniker": "MainGame\\Fighting\\FightManager.cs",
+              "ToolTip": "C:\\Users\\kosra\\Desktop\\Skola\\prog_forts\\Lektion\\SalesAdventureGame\\MainGame\\Fighting\\FightManager.cs",
+              "RelativeToolTip": "MainGame\\Fighting\\FightManager.cs",
+              "ViewState": "AQIAAJcAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T22:27:39.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kosra\\Desktop\\Skola\\prog_forts\\Lektion\\SalesAdventureGame\\MainGame\\Program.cs",
+              "RelativeDocumentMoniker": "MainGame\\Program.cs",
+              "ToolTip": "C:\\Users\\kosra\\Desktop\\Skola\\prog_forts\\Lektion\\SalesAdventureGame\\MainGame\\Program.cs",
+              "RelativeToolTip": "MainGame\\Program.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAIwFIAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T22:26:04.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\kosra\\Desktop\\Skola\\prog_forts\\Lektion\\SalesAdventureGame\\MainGame\\Player.cs",
               "RelativeDocumentMoniker": "MainGame\\Player.cs",
               "ToolTip": "C:\\Users\\kosra\\Desktop\\Skola\\prog_forts\\Lektion\\SalesAdventureGame\\MainGame\\Player.cs",
               "RelativeToolTip": "MainGame\\Player.cs",
-              "ViewState": "AQIAAGUAAAAAAAAAAAAAwHIAAAAmAAAA",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAuwE0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T18:35:16.398Z",
+              "WhenOpened": "2024-03-31T22:25:56.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\kosra\\Desktop\\Skola\\prog_forts\\Lektion\\SalesAdventureGame\\MainGame\\Items\\Inventory.cs",
+              "RelativeDocumentMoniker": "MainGame\\Items\\Inventory.cs",
+              "ToolTip": "C:\\Users\\kosra\\Desktop\\Skola\\prog_forts\\Lektion\\SalesAdventureGame\\MainGame\\Items\\Inventory.cs",
+              "RelativeToolTip": "MainGame\\Items\\Inventory.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowB0AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T22:24:21.366Z",
               "EditorCaption": ""
             }
           ]
