@@ -1,11 +1,11 @@
-﻿using SalesAdventure.MainGame.Enemies;
+﻿using SalesAdventure.MainGame;
+using SalesAdventure.MainGame.Enemies;
 using SalesAdventure.MainGame.Items;
-using SalesAdventure3000.MainGame;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace SalesAdventure.MainGame
+namespace SalesAdventure3000.MainGame
 {
     internal class GameState
     {
@@ -22,10 +22,10 @@ namespace SalesAdventure.MainGame
 
         public GameState(Player player, List<Item> items, Map gameMap, List<Goblin> goblins)
         {
-            this.Player = player;
+            Player = player;
             this.items = items;
-            this.GameMap = gameMap;
-            this.goblin = goblins;
+            GameMap = gameMap;
+            goblin = goblins;
         }
     }
 }

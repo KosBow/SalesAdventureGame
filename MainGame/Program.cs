@@ -5,6 +5,7 @@ using SalesAdventure.MainGame.Items;
 using SalesAdventure3000.MainGame;
 using System;
 using System.Collections.Generic;
+using SalesAdventure3000.MainGame.Fighting;
 
 namespace SalesAdventure.MainGame
 {
@@ -12,8 +13,8 @@ namespace SalesAdventure.MainGame
     {
         static void Main(string[] args)
         {
-            Console.WindowWidth = 120;
-            Console.WindowHeight = 35;
+            //Console.WindowWidth = 120;
+            //Console.WindowHeight = 35;
 
             GameState gameState = InitializeGameState();
             GameLoop(gameState);
@@ -88,7 +89,7 @@ namespace SalesAdventure.MainGame
                             Console.Clear();
                         }
                     }
-                    Console.SetCursorPosition(0, gameState.GameMap.height + 2);
+                    //Console.SetCursorPosition(0, gameState.GameMap.height + 2);
                 }
             }
         }
